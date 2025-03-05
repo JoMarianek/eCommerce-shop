@@ -16,7 +16,19 @@ Key pages in the application include:
 - Basket page 🛒
 - About Us page 🙋‍♂️🙋‍♀️
 
+My contributions:
+I was responsible for:
+✅ Implementing verification for the Login and Registration pages
+✅ Writing and designing the About Us page
+✅ Developing the Detailed Product page
+✅ Contributing to the Main page
+✅ Writing tests for the pages I worked on
+✅ Project management, including organizing tasks and writing tickets for each sprint
+
 The application is powered by CommerceTools 🌐, a leading provider of commerce solutions for B2C and B2B enterprises. CommerceTools offers a cloud-native, microservices-based commerce platform that enables brands to create unique and engaging digital commerce experiences.
+
+Important note:
+⚠️ The application was built using CommerceTools' free API, which has a limited availability period. As a result, some backend functionality (such as login, product retrieval, and checkout) may no longer be functional. However, the frontend implementation and design remain available for review.
 
 ## Installation
 
